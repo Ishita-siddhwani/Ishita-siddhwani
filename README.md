@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Ishita-siddhwani
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c language and web development
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me @ishitasiddhwani18@gmail.com
+Currently a 3rd year student who codes in C,C++,Java. I love designing. I am a creative person who loves to paint,draw,sketch and design.🖌️🎨 Other then technical part I love reading books and travelling 🧳✈️
 
 
 
 
-<!---
-Ishita-siddhwani/Ishita-siddhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
